@@ -1,38 +1,75 @@
-# Hi there! 👋
+# 👋 Hi there! I'm Samama Hasan
 
-I'm a passionate Software Developer with 3+ years of experience specializing in React Native, MERN Stack, and NestJS. I love creating high-quality mobile and web applications. 🚀
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/your-linkedin-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github&style=flat-square)](https://github.com/your-github-username)
+[![Twitter](https://img.shields.io/badge/Twitter-Profile-1DA1F2?logo=twitter&style=flat-square)](https://twitter.com/your-twitter-handle)
 
-## 🛠 Technologies & Tools
+I'm a **Senior Software Developer** with over **3.5 years** of hands-on experience in crafting robust and user-friendly applications. My expertise lies in modern technologies, including:
 
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-## 📫 How to Reach Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
-
-## 🔭 Current Projects
-
-- [Project 1](https://github.com/yourusername/project1): Brief description of project 1.
-- [Project 2](https://github.com/yourusername/project2): Brief description of project 2.
-
-## 🌱 Learning & Development
-
-Currently exploring more about advanced React patterns and cloud computing.
+- **Frontend:** React Native, Next.js
+- **Backend:** Node.js, NestJS, MERN Stack
+- **Languages:** JavaScript, TypeScript
+- **Cloud:** AWS Deployments
 
 ---
 
-Thank you for visiting my profile! Feel free to reach out if you want to collaborate on a project or just have a chat. 😊
+## 🚀 About Me
+
+I thrive on the challenges of building **mobile**, **web**, and **backend applications**, ensuring they not only perform well but also deliver exceptional user experiences. In my current role, I lead a team of developers, making critical decisions on project structure, conducting code reviews, and assigning tasks, all while keeping the project on schedule.
+
+- **🌱 I’m currently learning** more about cloud architecture and microservices.
+- **🤔 I’m looking for help with** advanced AWS services and DevOps practices.
+- **💬 Ask me about** software development principles, project management, and team leadership.
+
+---
+
+## 💼 My Skill Set
+
+### Languages & Frameworks
+
+- **JavaScript & TypeScript**
+- **React Native & Next.js**
+- **Node.js & NestJS**
+- **MERN Stack**
+
+### Tools & Technologies
+
+- **AWS (EC2, S3, Lambda)**
+- **Git & GitHub**
+- **CI/CD Pipelines**
+
+---
+
+## 🌍 Projects
+
+Here are a few of the projects I've worked on:
+
+1. **[Project Name](#)** - Brief description of what the project does and the technologies used.
+2. **[Project Name](#)** - Brief description of what the project does and the technologies used.
+3. **[Project Name](#)** - Brief description of what the project does and the technologies used.
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to discussing new opportunities or ideas! Feel free to reach out to me via:
+
+- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn:** [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile)
+- **Twitter:** [your-twitter-handle](https://twitter.com/your-twitter-handle)
+
+---
+
+## 📊 GitHub Stats
+
+![Samama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+---
+
+## ✨ Fun Fact
+
+I'm passionate about coding, coffee, and conquering the latest software trends. Always excited to learn new things and grow my skills!
+
+---
+
+Thank you for visiting my profile! 🚀
