@@ -63,24 +63,29 @@ Senior Software Engineer with 5 years of experience building scalable, high-perf
 ## 💼 Experience
 
 1) [SalesElement](https://saleselement.com/) — Senior Software Engineer (Jul 2023 – Present)
-- Delivered 13+ high-security frontend/mobile projects; 100% client satisfaction
-- Led frontend quality: PR reviews, test gates, merge approvals
-- Built reusable component libraries → ≈25% faster delivery
-- Added AI features: contextual chat, summaries, assisted form completion
-- Orchestrated API integrations with backend for performance and scalability
-- Mentored devs on React/React Native best practices
+- Delivered 13+ high-security frontend & mobile projects with 100% client satisfaction
+- Led frontend devs: PR reviews, approve/merge after testing, code quality ownership
+- Built React/React Native apps with reusable component libraries (≈25% faster delivery)
+- Integrated AI features (contextual chat, summaries, AI-assisted field completion)
+- Coordinated with backend to optimize API integration, performance, and scalability
+- Mentored junior developers on React best practices
 
-2) [VIWELL](https://apps.apple.com/us/app/viwell/id1669218312) — React Native Engineer (Aug 2022 – Jun 2023)
-- Built core mobile modules: check-ins, notifications, content programs, onboarding
-- Implemented real-time features via Socket.io and Firebase; optimized iOS/Android perf
-- Collaborated with design to deliver intended UI/UX and smooth cross-device flows
+2) [Nextbridge Ltd. (vTeams)](https://nextbridge.com/) — Senior Software Engineer (Mar 2022 – Present)
+- Architected React.js/React Native projects; ~30% bug reduction via robust patterns
+- Mentored engineers on React, RN, Next.js and client communication
+- Full-stack on Group Captain: Chats, Notifications (in-app/email), real-time features
+- Led AWS deployments and CI/CD; ~40% fewer deployment failures
+- Improved SEO/perf for Next.js apps; ~40% faster page loads
+- Built reusable component libraries for web/mobile parity
 
-3) Nextbridge Ltd. (vTeams) — Senior Software Engineer (Mar 2022 – Present)
-- Architected React/React Native stacks; ~30% bug reduction via patterns/testing
-- Led AWS deployments & CI/CD; ~40% fewer deployment failures
-- Full-stack on Group Captain (chat, notifications, org tree, release notes)
-- Next.js SEO/perf wins; ~40% faster initial loads
-- Built web/mobile component parity libraries
+3) [VIWELL](https://www.viwell.com/) — Software Engineer (Aug 2022 – May 2023)
+- Built React Native modules for health tracking with wearable integrations
+- Improved API response times by ~25% via custom React hooks and optimizations
+- Enhanced app performance and user retention; collaborated closely on UI/UX
+
+4) [Falcon Consulting](https://falconitconsultant.com/) — Software Engineer (Jan 2021 – Mar 2022)
+- Delivered 8 mobile apps (Uber/TikTok style) with ~95% crash-free rate
+- Reduced API latency by ~40% through backend and integration optimizations
 
 ---
 
@@ -100,6 +105,20 @@ Senior Software Engineer with 5 years of experience building scalable, high-perf
 More details and visuals exist in the portfolio.
 
 ---
+
+## 🎓 Education
+
+- [Bachelor of Science in Computer Science](https://www.comsats.edu.pk) — COMSATS University Islamabad (CGPA 3.17)
+  - Strong base in software engineering principles, algorithms/data structures, system design, DBMS, and modern programming paradigms. Hands-on OOP, SDLC, and collaborative project work.
+
+---
+
+## 🧠 Skills & Strengths
+
+- Frontend Development — React, Next.js, React Native; Redux state management; Tailwind CSS; modern JS (ES6+)/TypeScript
+- Backend Development — Node.js, Nest.js, Express.js; REST/GraphQL; microservices; MongoDB, PostgreSQL, MySQL
+- DevOps & Cloud — AWS (EC2, S3, Lambda); Docker; Kubernetes; CI/CD; testing, deployment strategies, monitoring
+- Leadership & Collaboration — mentoring, cross-functional leadership, code quality advocacy, agile delivery
 
 ## 📈 GitHub Pulse
 
