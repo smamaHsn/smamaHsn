@@ -16,7 +16,7 @@
   <a href="mailto:smamahsn@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-smamahsn%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 
   <br/>
-  <img src="https://img.shields.io/badge/Experience-3.5%2B%20years-673AB7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experience-5%2B%20years-673AB7?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Delivered-13%2B%20projects-2196F3?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Specialty-Frontend%20%2B%20Mobile%20%2B%20Realtime-009688?style=for-the-badge" />
 
@@ -26,7 +26,7 @@
 
 ## ⚡ About
 
-I design, build, and ship modern web and mobile products with strong UX, real-time features, and reliable CI/CD. I’ve led frontend deliverables across enterprise quote/cost-sheet platforms, wellness apps, project management, mobility, logistics, edtech, and fintech.
+Senior Software Engineer with 5 years of experience building scalable, high-performance web and mobile applications. I architect robust solutions with React, Next.js, React Native, Node.js, and cloud technologies — shipping modern products with strong UX, real-time features, and reliable CI/CD across enterprise quote/cost-sheet platforms, wellness, project management, mobility, logistics, edtech, and fintech.
 
 ## 🧭 Core Focus
 
@@ -62,7 +62,7 @@ I design, build, and ship modern web and mobile products with strong UX, real-ti
 
 ## 💼 Experience
 
-1) SalesElement — Senior Software Engineer (Jul 2023 – Present)
+1) [SalesElement](https://saleselement.com/) — Senior Software Engineer (Jul 2023 – Present)
 - Delivered 13+ high-security frontend/mobile projects; 100% client satisfaction
 - Led frontend quality: PR reviews, test gates, merge approvals
 - Built reusable component libraries → ≈25% faster delivery
@@ -70,7 +70,12 @@ I design, build, and ship modern web and mobile products with strong UX, real-ti
 - Orchestrated API integrations with backend for performance and scalability
 - Mentored devs on React/React Native best practices
 
-2) Nextbridge Ltd. (vTeams) — Senior Software Engineer (Mar 2022 – Present)
+2) [VIWELL](https://apps.apple.com/us/app/viwell/id1669218312) — React Native Engineer (Aug 2022 – Jun 2023)
+- Built core mobile modules: check-ins, notifications, content programs, onboarding
+- Implemented real-time features via Socket.io and Firebase; optimized iOS/Android perf
+- Collaborated with design to deliver intended UI/UX and smooth cross-device flows
+
+3) Nextbridge Ltd. (vTeams) — Senior Software Engineer (Mar 2022 – Present)
 - Architected React/React Native stacks; ~30% bug reduction via patterns/testing
 - Led AWS deployments & CI/CD; ~40% fewer deployment failures
 - Full-stack on Group Captain (chat, notifications, org tree, release notes)
@@ -81,37 +86,27 @@ I design, build, and ship modern web and mobile products with strong UX, real-ti
 
 ## 🚀 Featured Projects
 
-- SalesElement Projects — Enterprise quote/cost-sheets (React, TS, Bootstrap) • https://saleselement.com/
-- VIWELL — Digital well-being mobile app (RN, Socket.io, Firebase) • App Store: https://apps.apple.com/us/app/viwell/id1669218312
-- Group Captain — PM platform with chat, notifications, docs (React, Nest.js, MongoDB) • https://gc.vteamslabs.com/
-- @Table — Dual RN apps with QR flow, geo search, payments, chat • App Store: https://apps.apple.com/us/app/%C3%A0-table/id1535945992
+- [SalesElement Projects](https://saleselement.com/) — Enterprise quote/cost-sheets (React, TS, Bootstrap)
+- [VIWELL](https://apps.apple.com/us/app/viwell/id1669218312) — Digital well-being mobile app (RN, Socket.io, Firebase)
+- [Group Captain](https://gc.vteamslabs.com/) — PM platform with chat, notifications, docs (React, Nest.js, MongoDB)
+- [@Table](https://apps.apple.com/us/app/%C3%A0-table/id1535945992) — Dual RN apps with QR flow, geo search, payments, chat
 - Permispop — Driving education platform (ReactJS + ASP.NET Core → RN)
 - Yuwway — Transport fare comparison app (RN, real-time)
-- Sindoor — Vendor quotes, chat, bookings (RN) • App Store: https://apps.apple.com/us/app/sindoor/id1624458201
+- [Sindoor](https://apps.apple.com/us/app/sindoor/id1624458201) — Vendor quotes, chat, bookings (RN)
 - Real Estate — Investor transparency app (RN, real-time metrics)
 - KidCab — Parent/Driver RN apps + React admin (real-time tracking)
-- Tilt — Meal delivery (React + RN, real-time) • App Store: https://apps.apple.com/us/app/tilt-enterprise/id1548875909
+- [Tilt](https://apps.apple.com/us/app/tilt-enterprise/id1548875909) — Meal delivery (React + RN, real-time)
 
 More details and visuals exist in the portfolio.
-
----
-
-## 📝 Articles & Talks
-
-- Vue.js Quickstart Tutorial — https://dev.to/code_wonders/vuejs-2-quickstart-tutorial-by-codewonders-2972
-- Architecting Large-scale Javascript Applications — https://www.canva.com/design/DAEP8soDA7Y/LhN_G3Z6vbratkAlslugaQ/view?utm_content=DAEP8soDA7Y&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
-- A Chat App With Vuejs & NodeJs — https://medium.com/@codewonders/a-chat-app-with-vuejs-nodejs-325eac45e3a9
-- Best websites a programmer should visit — https://becominghuman.ai/code-wonders-96d629bb8d8c
-- What are generator functions? — https://dev.to/code_wonders/what-are-these-things-called-generator-functions-58nn
 
 ---
 
 ## 📈 GitHub Pulse
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=samama-hasan&show_icons=true&theme=radical" height="160" />
-  <img src="https://streak-stats.demolab.com?user=samama-hasan&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samama-hasan&layout=compact&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=smamaHsn&show_icons=true&theme=radical" height="160" />
+  <img src="https://streak-stats.demolab.com?user=smamaHsn&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smamaHsn&layout=compact&theme=radical" height="160" />
 </div>
 
 ---
@@ -127,4 +122,3 @@ More details and visuals exist in the portfolio.
 ## ✨ Fun Fact
 
 Coffee-powered, design-obsessed, and always shipping. I love building delightful interfaces with real-time experiences.
-
